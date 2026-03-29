@@ -1,0 +1,7 @@
+DECLARATION OF OPEN DEVELOPMENT
+Date: March 28, 2026
+Author: pranjal_gupta
+
+I believe that software should Huge the world. Every day, I rely on the hard work of thousands of developers through tools like the Pandas and TensorFlow library. 
+Because I have benefited from this free sharing of knowledge, I pledge to contribute back. 
+My ultimate goal is to build solutions for Access, and when I do, I will share them openly so others can stand on my shoulders.
